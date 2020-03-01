@@ -1,0 +1,3 @@
+# https://www.git-scm.com/docs/gitattributes#Documentation/gitattributes.txt-Unset
+# Unsetting the text attribute on a path tells Git not to attempt any end-of-line conversion upon checkin or checkout.
+* -text
